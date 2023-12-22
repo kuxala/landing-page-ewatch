@@ -1,7 +1,8 @@
 # eWatch Showcase
-[Live Here](https://65857e8430feeec5d2925ccb--delicate-tarsier-856e9b.netlify.app/)
+
 ![eWatch Image](ewatch.PNG)
 
+[Live Here](https://65857e8430feeec5d2925ccb--delicate-tarsier-856e9b.netlify.app/)
 Welcome to the eWatch Showcase, a React and TypeScript project designed to feature THE eWatch. This repository contains the source code for the website.
 
 ## Features:
