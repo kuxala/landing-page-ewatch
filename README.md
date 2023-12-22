@@ -1,5 +1,5 @@
 # eWatch Showcase
-!(/ewatch.PNG)
+!(ewatch.png)
 Welcome to the eWatch Showcase, a React and TypeScript project designed to feature THE eWatch. This repository contains the source code for the website.
 
 ## Features:
